@@ -258,5 +258,7 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 
 ## 👥 Contributors
 
-- **Om K.** - *Lead System Architect & NLP Developer* (placeholder)
-- Open source community contributors welcome!
+- **Om Kale**
+- **Daksh Padmavat**
+- **Viraj Patil**
+- **Vikrant Kothavale** 
