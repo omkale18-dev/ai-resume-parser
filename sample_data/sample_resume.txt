@@ -1,0 +1,49 @@
+Arjun Sharma
+Bangalore, India | +91-9876543210 | arjun.sharma@email.com | linkedin.com/in/arjun-sharma | github.com/arjunsharma
+
+SUMMARY
+Results-oriented Software Engineer with over 4 years of experience specializing in backend engineering, scalable RESTful API design, and cloud deployments. Proven expertise in Python, Django, PostgreSQL, and modern web architectures. Strong collaborator adept at leading feature delivery, solving complex engineering problems, and integrating data-driven machine learning solutions.
+
+SKILLS
+- Programming Languages: Python, JavaScript, SQL
+- Frameworks & Libraries: Django, Flask, React, Pandas, NumPy
+- Databases: PostgreSQL, MongoDB
+- Cloud & DevOps: AWS, Docker, Git, Linux
+- Methodologies & Concepts: REST API, Machine Learning, Agile, Microservices, System Design
+- Soft Skills: Communication, Teamwork, Problem Solving
+
+EXPERIENCE
+Python Developer | Tata Consultancy Services (TCS)
+Bangalore, India | July 2022 – Present
+- Architected and deployed microservices-based REST APIs using Python, Django, and PostgreSQL handling over 2M daily requests.
+- Containerized enterprise backend services using Docker and orchestrated deployments on AWS ECS, decreasing deployment downtime by 35%.
+- Implemented asynchronous background task processing using Celery and Redis to handle batch data ingestion and scheduled reports.
+- Mentored junior engineers, participated in code reviews, and championed Agile sprint planning and retrospective sessions.
+
+Software Developer | Infosys Limited
+Pune, India | August 2020 – June 2022
+- Developed core web applications and automated data processing pipelines utilizing Python, Flask, and MongoDB.
+- Built interactive dashboard interfaces using React and JavaScript, integrating seamlessly with backend RESTful endpoints.
+- Collaborated with QA and DevOps teams in Linux environments using Git for distributed version control and CI/CD pipeline automation.
+- Resolved high-severity production defects, applied database indexing strategies, and enhanced system throughput.
+
+EDUCATION
+Indian Institute of Technology Delhi (IIT Delhi)
+Bachelor of Technology (B.Tech) in Computer Science | 2016 – 2020
+- Graduated with First Class Honors (CGPA: 8.7/10)
+
+PROJECTS
+1. Intelligent Job Recommendation Engine
+- Built a personalized job matching system utilizing Python, scikit-learn, Pandas, and NumPy for vector similarity matching between resumes and descriptions.
+- Implemented a Django REST framework backend with PostgreSQL storage and Docker containerization.
+
+2. Cloud-Native E-Commerce API
+- Designed and implemented a scalable microservices architecture using Python, Flask, MongoDB, and Redis caching.
+- Deployed on AWS with auto-scaling groups and integrated Stripe API for secure transaction processing.
+
+3. Automated Resume Parsing Service
+- Developed an automated information extraction pipeline leveraging regex, NLP preprocessing, and Python to parse contact details and skills from documents.
+
+CERTIFICATIONS
+- AWS Certified Cloud Practitioner (Amazon Web Services)
+- Google Data Analytics Certificate (Google / Coursera)

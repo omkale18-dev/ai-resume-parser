@@ -1,0 +1,36 @@
+Job Title: Senior Python Developer
+Company: TechNova Solutions
+Location: Bangalore, India (Hybrid)
+Employment Type: Full-time
+
+About TechNova Solutions:
+TechNova Solutions is a fast-growing enterprise software firm dedicated to delivering scalable cloud and AI-driven platforms. We foster an inclusive, high-energy environment built on continuous innovation, modern engineering practices, and engineering excellence.
+
+Job Summary:
+We are seeking an experienced and passionate Senior Python Developer to join our backend engineering team. In this role, you will architect, build, and maintain high-performance web applications and scalable microservices, driving key architectural decisions while mentoring junior developers.
+
+Responsibilities:
+- Design, implement, and maintain scalable web services and RESTful APIs using Python and Django.
+- Architect robust database schemas, optimize queries, and manage transactional integrity in PostgreSQL.
+- Containerize services using Docker and manage deployments across cloud environments.
+- Collaborate with cross-functional teams, product managers, and UI/UX designers to translate requirements into technical solutions.
+- Drive agile development processes, conduct thorough code reviews, and advocate best practices in code quality and testing.
+- Diagnose and troubleshoot complex performance bottlenecks and production incidents to ensure high system availability.
+- Provide technical leadership, mentorship, and guidance to junior and mid-level software engineers.
+
+Required Skills:
+- 3+ years of professional backend software development experience with Python and Django.
+- Strong proficiency in designing and integrating REST API architectures and microservices.
+- Solid hands-on experience with relational databases, particularly PostgreSQL, including indexing and query optimization.
+- Proficiency in containerization with Docker and version control with Git / GitHub.
+- Solid understanding of software design patterns, data structures, algorithms, and Agile methodologies.
+- Proven track record of demonstrating strong leadership, communication, and problem solving skills in collaborative engineering settings.
+
+Preferred Skills:
+- Practical experience with cloud platforms, specifically AWS (ECS, S3, RDS, Lambda).
+- Familiarity with caching systems like Redis and container orchestration using Kubernetes.
+- Exposure to Machine Learning workflows or integrating AI models into production web applications.
+
+Qualifications:
+- B.Tech / B.E. in Computer Science, Information Technology, or a related engineering field.
+- 3+ years of relevant experience in software engineering and backend development.
